@@ -69,10 +69,10 @@ workshops da conferência, além de eventos sociais relacionados.
 
 #### Sobre este código de conduta
 Código de Conduta baseado em [Node Conf's Code of Conduct](http://nodeconf.com/code-of-conduct.html),
-[CodeofConduct.com em Português Brasileiro](http://confcodeofconduct.com/index-pt-br.html)
+[ConfCodeofConduct.com em Português Brasileiro](http://confcodeofconduct.com/index-pt-br.html)
 e inspirado por [http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about) &
 [The Ada Initative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
-Ajude este documento a melhorar em [codeofconduct.com](https://github.com/confcodeofconduct/confcodeofconduct.com/blob/master/index-pt-br.html)
+Ajude este documento a melhorar em [confcodeofconduct.com](https://github.com/confcodeofconduct/confcodeofconduct.com/blob/master/index-pt-br.html)
 
 Este trabalho está sob a licença [Creative Commons Attribution 3.0 Unported (CC BY 3.0)](http://creativecommons.org/licenses/by/3.0/deed.en_US)
