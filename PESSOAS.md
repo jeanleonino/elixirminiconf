@@ -33,3 +33,8 @@ Contato: [Twitter](https://twitter.com/aleattorium), [Facebook](https://www.face
 Bio: TBD
 
 Contato: [Twitter](https://twitter.com/joselitojunior1)
+
+### Marcos Bérgamo
+Bio: Curioso por natureza, desenvolvedor por opção e apaixonado por tecnologias.
+
+Contato: [Twitter](https://twitter.com/thebergamo), [Facebook](https://facebook.com/thebergamo), ou email: marcos[arroba]thedon.com.br
