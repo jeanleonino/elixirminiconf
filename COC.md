@@ -13,7 +13,7 @@ _tl;dr: não seja panaca_
 
 Fale com [Jean Lucas](jeanlucaslima.com) via [Facebook](https://www.facebook.com/jeanleonino),
 [Twitter](https://twitter.com/aleattorium), e-mail (jeanlonino [arroba] gmail.com)
-ou envie uma conversa privada para meu telegram (usuario jeanlucaslima).
+ou envie uma conversa privada para meu Telegram [@jeanlucaslima](http://telegram.me/jeanlucaslima).
 
 Caso tenha algum problema sinta-se à vontade para falar, sua privacidade será garantida.
 
