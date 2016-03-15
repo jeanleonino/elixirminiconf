@@ -38,3 +38,8 @@ Contato: [Twitter](https://twitter.com/joselitojunior1), [Facebook](https://face
 Bio: Curioso por natureza, desenvolvedor por opção e apaixonado por tecnologias.
 
 Contato: [Twitter](https://twitter.com/thebergamo), [Facebook](https://facebook.com/thebergamo), ou email: marcos[arroba]thedon.com.br
+
+### Érica Hidemi Mitsuishi
+Bio: Programadora frontend tranquilona que curte aprender coisas novas :)
+
+Contato: [Twitter](https://twitter.com/mitsuishihidemi), [Facebook](https://www.facebook.com/mitsuishihidemi), [Telegram](https://telegram.me/mitsuishihidemi) ou email: hidemi.mitsuishi[arroba]gmail.com
