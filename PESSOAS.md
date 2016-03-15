@@ -30,9 +30,9 @@ Contato: [Twitter](https://twitter.com/aleattorium), [Facebook](https://www.face
 
 
 ### Joselito Júnior
-Bio: TBD
+Bio: Forrozeiro, ex-bbb, Developer JavaScript e curioso sobre novos paradimas.
 
-Contato: [Twitter](https://twitter.com/joselitojunior1)
+Contato: [Twitter](https://twitter.com/joselitojunior1), [Facebook](https://facebook.com/joselitojr), [Telegram](https://telegram.me/joselitojunior1)
 
 ### Marcos Bérgamo
 Bio: Curioso por natureza, desenvolvedor por opção e apaixonado por tecnologias.
