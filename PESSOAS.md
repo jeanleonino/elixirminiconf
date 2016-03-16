@@ -13,12 +13,27 @@ Bio: TBD
 
 Perfil: [@josevalim](https://twitter.com/josevalim)
 
-### Elba Sánchez Márquez
+### Elba Sanchéz Marquéz
 Tema: TBD
 
 Bio: TBD
 
 Redes sociais: [@ElbaSanchezM](https://twitter.com/ElbaSanchezM)
+
+### Guillermo Iguaran
+Tema: TBD
+
+Bio: TBD
+
+Perfil: [@guilleiguaran](https://twitter.com/guilleiguaran)
+
+### Fabio Akita
+Tema: TBD
+
+Bio: Co-Fundador da butique de software Codeminer 42. Fundador e organizador da Rubyconf Brasil junto com a Locaweb desde 2008. Evangelista de Ruby e novas tecnologias desde 2006.
+
+Perfil: [@AkitaOnRails](https://twitter.com/AkitaOnRails)
+
 
 
 ## Voluntários
