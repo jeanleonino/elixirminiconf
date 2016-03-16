@@ -41,7 +41,7 @@ Perfil: [@AkitaOnRails](https://twitter.com/AkitaOnRails)
 ### Jean Lucas
 Bio: Programador, brasileiro, fã de Ember.js e Elixir.
 
-Contato: [Twitter](https://twitter.com/aleattorium), [Facebook](https://www.facebook.com/jeanleonino), ou email: jeanleonino [arroba] gmail.com
+Contato: [Twitter](https://twitter.com/aleattorium), [Facebook](https://www.facebook.com/jeanleonino), [Telegram](https://telegram.me/jeanlucaslima) ou email: jeanleonino[arroba]gmail.com
 
 
 ### Joselito Júnior
